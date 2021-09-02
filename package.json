@@ -1,23 +1,23 @@
 {
-  "name": "@googlemaps/markerclustererplus",
-  "version": "1.2.0",
-  "description": "Creates and manages per-zoom-level clusters for large amounts of markers.",
+  "name": "@hanmuko/markerclustererplus",
+  "version": "0.0.1",
+  "description": "Folked version of @googlemaps/markerclustererplus",
   "keywords": [
     "cluster",
     "google",
     "maps",
     "marker"
   ],
-  "homepage": "https://github.com/googlemaps/js-markerclustererplus",
+  "homepage": "https://github.com/hanmuko/js-markerclustererplus",
   "bugs": {
-    "url": "https://github.com/googlemaps/js-markerclustererplus/issues"
+    "url": "https://github.com/hanmuko/js-markerclustererplus/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/googlemaps/js-markerclustererplus.git"
+    "url": "https://github.com/hanmuko/js-markerclustererplus.git"
   },
   "license": "Apache-2.0",
-  "author": "Justin Poehnelt",
+  "author": "Hanmuk OH",
   "files": [
     "dist/*",
     "images/*"
@@ -62,7 +62,6 @@
     "typescript": "^4.0.2"
   },
   "publishConfig": {
-    "access": "public",
-    "registry": "https://wombat-dressing-room.appspot.com"
+    "access": "public"
   }
 }
